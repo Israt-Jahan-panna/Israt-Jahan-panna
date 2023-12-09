@@ -7,8 +7,8 @@
 
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/contact-phone-icon-4.png" width="30" height="30"> Contact Me  </h1>
 
- <div>
- <center>
+ <div style="text-align:center">
+ 
  <a href="mailto:isratjahanpanna87@gmail.com" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Email.png" alt="Email" style="width: 20px; height: 20px; vertical-align: middle;  align: center;">
   isratjahanapanna87@gmail.com
@@ -24,10 +24,10 @@
 
 ---
 
-<h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/4257483.png" width="30" height="30"> All the technologies I have used</h1>
+<h1 style="text-align:center"><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/4257483.png" width="30" height="30"> All the technologies I have used</h1>
 
-<div>
-<center>
+<div style="text-align:center">
+
   <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/html.png" width="100" height="100" >
    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/css.png" width="70" height="90" >
    <a> 
@@ -54,15 +54,15 @@
 
 <br>
 
-<h1>🔗 Most Used language And Contribution Repositories </h1>
-
-<center>
- <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_langs.png"  width="100" height="auto"></a>
-    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_repos.png" width="100" height="auto" ></a>
-</center>
+<h1 style="text-align:center">🔗 Most Used language And Contribution Repositories </h1>
 
 
-<h1>🔗 Current Overview </h1>
+ <a style="text-align:center"> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_langs.png"  width="100%" height="auto"></a>
+    <a style="text-align:center"> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_repos.png" width="100%" height="auto" ></a>
+
+
+
+<h1 style="text-align:center" >🔗 Current Overview </h1>
 
 - 🌱 I’m currently pushing the boundaries of my skill set, I'm immersing myself in the intricacies of backend development.
 
