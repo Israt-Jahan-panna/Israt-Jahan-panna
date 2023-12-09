@@ -6,14 +6,19 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt-Jahan-panna&theme=gruvbox-duo&hide_border=true&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=522&background=46%2C231D35%2CEB5454&border=1C0A0A)](https://git.io/streak-stats)
 
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/contact-phone-icon-4.png" width="30" height="30"> Contact Me  </h1>
-<a href="mailto:isratjahanpanna87@gmail.com" style="text-decoration: none;">
+
+ <div>
+ <a href="mailto:isratjahanpanna87@gmail.com" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Email.png" alt="Email" style="width: 20px; height: 20px; vertical-align: middle;">
   isratjahanapanna87@gmail.com
-</a>  
+</a>
+ </div> 
 <span style="margin-left:40px; "></span>
+<div>
 <a href="https://www.linkedin.com/in/israt-jahan-panna/">
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" width="100" height="20" alt="LinkedIn Profile">
 </a>
+</div>
 
 
 
