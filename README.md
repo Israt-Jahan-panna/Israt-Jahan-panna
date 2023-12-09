@@ -9,20 +9,13 @@
 
  <div>
  <a href="mailto:isratjahanpanna87@gmail.com" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Email.png" alt="Email" style="width: 30px; height: 30px; vertical-align: middle; ">
+  <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Email.png" alt="Email" style="width: 20px; height: 20px; vertical-align: middle;  align: center;">
   isratjahanapanna87@gmail.com
 </a>
- </div> 
-
-<div>
 <a href="https://www.linkedin.com/in/israt-jahan-panna/">
-  <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" 
-  style="margin-top:40px;"width="100" height="20" alt="LinkedIn Profile">
+  <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" width="100" height="20" alt="LinkedIn Profile">
 </a>
-</div>
-
-
-
+ </div> 
 
 
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/4257483.png" width="30" height="30"> All the technologies I have used</h1>
