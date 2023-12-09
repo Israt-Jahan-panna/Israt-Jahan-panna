@@ -46,7 +46,11 @@
 
 <h1>🔗 Current Overview </h1>
 
-- 🌱 I’m currently Node.js
-- 👯 I’m looking for a Job as a Front-End Devloper.. 
+- 🌱 I’m currently pushing the boundaries of my skill set, I'm immersing myself in the intricacies of backend development.
+
+- 🌱 As a lifelong learner, I consider each project as a chance to learn and develop. My passion for constant growth motivates me to take on new challenges, including understanding new frameworks or adopting the latest technological developments.
+
+- 👯 I'm excited to collaborate as a front-end developer.
+ 
 - 📫 How to reach me: Email: isratjahanpnaa87@gmail.com
 -->
