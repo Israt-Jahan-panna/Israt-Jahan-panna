@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Email.png" alt="Email" style="width: 20px; height: 20px; vertical-align: middle;  align: center;">
   isratjahanapanna87@gmail.com
 </a>
+<br>
 <a href="https://www.linkedin.com/in/israt-jahan-panna/">
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" width="100" height="20" alt="LinkedIn Profile">
 </a>
