@@ -13,7 +13,7 @@
   isratjahanapanna87@gmail.com
 </a>
  </div> 
-<span style="margin-left:40px; "></span>
+<span style="margin-top:40px;"></span>
 <div>
 <a href="https://www.linkedin.com/in/israt-jahan-panna/">
   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" width="100" height="20" alt="LinkedIn Profile">
