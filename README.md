@@ -1,8 +1,4 @@
-
-[![Albuquerque, New Mexico](https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/banner/Banner.png)](https://www.linkedin.com/in/israt-jahan-panna/)
-<span style="position: absolute; top: 85%;  transform: translate(-50%, -50%);"><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/LinkedIn_logo_initials.png.webp" width="20" height="20"></span>
-
-
+![Albuquerque, New Mexico](https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/banner/Banner.png)
 
 
 
