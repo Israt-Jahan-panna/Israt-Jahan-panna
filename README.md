@@ -54,8 +54,8 @@
 
 <h1>🔗 Most Used language And Contribution Repositories </h1>
 <div>
- <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_langs.png" ></a>
-    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_repos.png"  ></a>
+ <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_langs.png"  width="50%" height="auto"></a>
+    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_repos.png" width="50%" height="auto" ></a>
 </div>
 
 
