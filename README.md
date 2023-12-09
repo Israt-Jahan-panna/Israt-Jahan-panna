@@ -3,7 +3,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Status.webp " width="30" height="30"> Current Status</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt-Jahan-panna&theme=gruvbox-duo&hide_border=true&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=522&background=46%2C231D35%2CEB5454&border=1C0A0A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt-Jahan-panna&theme=gruvbox-duo&hide_border=true&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000&background=46%2C231D35%2CEB5454&border=1C0A0A)](https://git.io/streak-stats)
 
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/contact-phone-icon-4.png" width="30" height="30"> Contact Me  </h1>
 
