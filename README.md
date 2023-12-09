@@ -25,19 +25,20 @@
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/4257483.png" width="30" height="30"> All the technologies I have used</h1>
 
 <div>
-  <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/html.png" width="100" height="100" ></a>
-   <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/css.png" width="70" height="90" ></a>
+  <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/html.png" width="100" height="100" >
+   <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/css.png" width="70" height="90" >
    <a> 
-   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Javascript.png" width="100" height="90" ></a>
+   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Javascript.png" width="100" height="90" >
    <a> 
-   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/react.png" width="90" height="70" ></a>
+   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/react.png" width="90" height="70" >
    <a> 
    <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/nodejs-1-logo-png-transparent.png" width="100" height="90" ></a>
    <a> 
    <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/express%20JS.png" width="100" height="90" ></a>
-   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.webp" width="100" height="90" ></a>
+   <a><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/tailwind2.png" width="100" height="80" ></a>
     <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/62a76468bd73a4af5c5d4fb7.png" width="100" height="90" ></a>
-    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/tailwind.png" width="100" height="90" ></a>
+    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/603c5eb831820c3ce6a8f057_603a1586fa052d17fc2a6929_MongoDBAtlas.webp" width="100" height="90" ></a>
+ 
 </div>
 
 
