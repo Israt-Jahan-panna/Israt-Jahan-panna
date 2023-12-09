@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt-Jahan-panna&theme=highcontrast&hide_border=true&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&card_width=494)](https://git.io/streak-stats)
 
 <!--
 **Israt-Jahan-panna/Israt-Jahan-panna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
