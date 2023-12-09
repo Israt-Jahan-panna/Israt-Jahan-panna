@@ -18,7 +18,22 @@
  </div> 
 
 
+
+
+---
+
 <h1><img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/4257483.png" width="30" height="30"> All the technologies I have used</h1>
+
+<div>
+  <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/html.png" width="100" height="100" ></a>
+   <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/css.png" width="70" height="90" ></a>
+   <a> 
+   <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Javascript.png" width="100" height="90" ></a>
+    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/tailwind.png" width="100%" height="90" ></a>
+</div>
+
+
+---
 
 <h1>🔗 Current Overview </h1>
 
