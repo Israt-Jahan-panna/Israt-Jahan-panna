@@ -1,6 +1,7 @@
-![Albuquerque, New Mexico](https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/banner/Banner.png)
+![An old rock in the desert](https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/banner/Banner.png)
 
 
+<h1>🔗 Current Status</h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israt-Jahan-panna&theme=highcontrast&hide_border=true&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&card_width=494)](https://git.io/streak-stats)
 
