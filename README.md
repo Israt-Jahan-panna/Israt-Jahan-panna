@@ -11,7 +11,7 @@
   isratjahanapanna87@gmail.com
 </a>  
 <span style="margin-left: 10px;"></span>
-<img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/LinkedIn_logo_initials.png.webp" width="20" height="20">
+<img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/1656958733linkedin-logo-png.webp" width="100" height="20">
 
 
 
