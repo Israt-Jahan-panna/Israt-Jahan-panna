@@ -46,6 +46,17 @@
 ---
 
 <h1>🔗 GitHub Trends </h1>
+<div>
+<img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/github-wrapped.png" 
+
+
+<br>
+
+<h1>🔗 Most Used language And Contribution Repositories </h1>
+<div>
+ <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_langs.png" ></a>
+    <a> <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/Israt-Jahan-panna_repos.png"  ></a>
+</div>
 
 
 <h1>🔗 Current Overview </h1>
