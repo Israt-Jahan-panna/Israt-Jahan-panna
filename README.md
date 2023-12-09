@@ -45,6 +45,9 @@
 
 ---
 
+<h1>🔗 GitHub Trends </h1>
+
+
 <h1>🔗 Current Overview </h1>
 
 - 🌱 I’m currently pushing the boundaries of my skill set, I'm immersing myself in the intricacies of backend development.
