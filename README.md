@@ -47,7 +47,7 @@
 
 ---
 
-<h1>🔗 GitHub Trends </h1>
+<h1>🔗 GitHub Summary </h1>
 <div>
 <img src="https://raw.githubusercontent.com/Israt-Jahan-panna/Israt-Jahan-panna/main/Image/Icons/github-wrapped.png" 
 
